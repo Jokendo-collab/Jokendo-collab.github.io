@@ -1,8 +1,9 @@
 theme: jekyll-theme-Cayman
 
-# About/Contacts
-author:
-  name: Javan Okendo
-  email: javan.okendo@nih.gov
-  
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
 
+Your contact information goes here.
