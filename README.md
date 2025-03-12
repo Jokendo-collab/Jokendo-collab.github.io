@@ -10,7 +10,7 @@ We performed hybrid assembly using Verkko assembler (version 2.2) [PMID: 3679749
 
 ### Data downloads
 - Genome assembly for [NHGRI_TU_Fish6](https://submit.ncbi.nlm.nih.gov/subs/wgs/SUB14903102) and [NHGRI_TU_Fish11](https://submit.ncbi.nlm.nih.gov/subs/wgs/SUB15155178 ) are available on NCBI.
-- The annotation for the two assemblies can be downloaded from here: [NHGRI_Fish11](https://github.com/Jokendo-collab/Jokendo-collab.github.io/blob/main/NHGRI_Fish11.gtf.tar.gz) and [NHGRI_Fish6]
+- The annotation for the two assemblies can be downloaded from here: [NHGRI_TU_Fish11](https://github.com/Jokendo-collab/Jokendo-collab.github.io/blob/main/NHGRI_Fish11.gtf.tar.gz) and [NHGRI_TU_Fish6](https://github.com/Jokendo-collab/Jokendo-collab.github.io/blob/main/NHGRI_Fish6.gtf.tar.gz)
 - PacBio long reads RNAseq data can be downloaded from [here](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1232602)
 
 ## Zebrafish pangenome
