@@ -1,5 +1,3 @@
-# The complete sequence of zebrafish reference genome
-
 In this project, we sequenced zebrafish, Danio rerio genome with a number of technologies. We used both TU and AB strains of zebrafish, Danio rerio. The genomic DNA was extracted from the fibroblast and from the tissues. The data includes 25X PacBi HiFi and 300x coverage of Oxford Nanopore (ONT). The Raw DNA data from PacBio HiFi and ONT has been deposited on [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) with the BioProject ID: PRJNA1159317.
 
 ### Gene annotation
