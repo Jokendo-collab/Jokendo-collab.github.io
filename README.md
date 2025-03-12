@@ -1,6 +1,8 @@
 # The complete sequence of zebrafish reference genome
 
 In this project, we sequenced zebrafish, Danio rerio genome usong both PacBio and Oxford Nanopore  (ONT) sequencing technologies. We used both Tubingen (TU) and AB strains of zebrafish. The genomic DNA was extracted from the fibroblast and from the tissues. The data includes 25X PacBi HiFi and 300x coverage of ONT. The Raw DNA data from PacBio HiFi and ONT has been deposited on [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) with the BioProject ID: PRJNA1159317.
+Commonly used model systems in molecular biology
+![image](https://github.com/user-attachments/assets/5e952195-ff0f-4e67-8025-a1df0846c81e)
 
 ### Gene annotation
 Did the lift off from the GRCz11 and the annotation file can be downloaded from here:
