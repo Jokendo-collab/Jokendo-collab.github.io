@@ -1,5 +1,4 @@
-<h1 align="center"> A complete sequence of zebrafish reference genome</h1>
-
+# A complete sequence of zebrafish reference genome
 
 <p align="center">
   <img src="javanokendo.jpeg" alt="Description of image" width="400"/>
