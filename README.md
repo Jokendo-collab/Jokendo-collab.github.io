@@ -1,7 +1,9 @@
-# A complete sequence of zebrafish reference genome
+# A complete sequence of zebrafish reference genome 
+<h1 align="center">🐟 A complete sequence of zebrafish reference genome</h1>
+
 
 <p align="center">
-  <img src="javanokendo.jpeg" alt="Description of image" width="600"/>
+  <img src="javanokendo.jpeg" alt="Description of image" width="400"/>
 </p>
 
 Javan Ochieng Okendo achieved a significant milestone by providing the first complete and gapless sequence of the zebrafish reference genome. This advancement represents a major breakthrough in zebrafish genomics, as it overcomes the limitations of previous assemblies, such as the widely used GRCz11 reference genome, which contained gaps and unresolved regions. By delivering a highly accurate and contiguous genome assembly, this new reference genome serves as a valuable resource for the entire zebrafish research community. It enhances our ability to identify previously undetected genes and genetic variants, which were missing in earlier versions due to sequencing and assembly constraints. This improved genomic framework will facilitate functional genomics studies, comparative evolutionary research, and precision genetic engineering, thereby advancing zebrafish as a model organism in biomedical and developmental biology. Furthermore, it will accelerate discoveries in areas such as disease modeling, regulatory genomics, and evolutionary biology, ultimately benefiting a wide range of scientific disciplines.
