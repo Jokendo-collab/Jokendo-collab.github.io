@@ -1,5 +1,5 @@
 # A complete sequence of zebrafish reference genome
-## About the author
+
   <figure>
    <div align="center">
    <img src="javanokendo.jpeg" width="400" height="400" alt="image explanation"/>
